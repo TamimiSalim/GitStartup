@@ -14,7 +14,7 @@ namespace WebApplication1.Controllers
             return View();
         }
 
-        public ActionResult Detail(int[] ids)
+        public ActionResult Detail(int id)
         {
             return View();
         }
