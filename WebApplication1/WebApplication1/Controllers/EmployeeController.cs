@@ -14,7 +14,11 @@ namespace WebApplication1.Controllers
             return View();
         }
 
+<<<<<<< Updated upstream
         public ActionResult Detail(int id)
+=======
+        public ActionResult Detail(string Conflict)
+>>>>>>> Stashed changes
         {
             return View();
         }
